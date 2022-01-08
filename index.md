@@ -1,1 +1,1 @@
-[page](https://superatraction.github.io/ff.html)
+[page](https://superatraction.github.io/ff.php)
