@@ -1,6 +1,7 @@
 # Bienvenue sur SuperAtraction.github.io !
+<script type="javascript">function a(){alert("e")}</script>
 Ce site utilise les githubs pages pour fonctionner.
-<a href="" class="btn btn-github">TEST</a>
+<a href="javascript:a()" class="btn btn-github">TEST</a>
 Il ne fonctionne malencontreusement pas avec le [php](https://www.php.net/manual/fr/).
 #### [Ma page github](https://github.com/SuperAtraction/)
 ## Mes applications
