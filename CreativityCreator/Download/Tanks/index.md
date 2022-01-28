@@ -1,7 +1,7 @@
 # Merci !
 Merci d'avoir téléchargé CreativityCreator !
 <center>Logiciels utilisés pour la création :
-	<li>[qt.io](Qt Creator)<li>QT Frameworl</li><li>Qt Creator Ide</li><li>QInstallerFramework</li><li>Qt QMake</li></li>
+	<li>[qt.io](Qt Creator)<li>QT Framework</li><li>Qt Creator Ide</li><li>QInstallerFramework</li><li>Qt QMake</li></li>
 </center>
 
 # Mon Histoire
