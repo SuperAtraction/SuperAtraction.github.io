@@ -1,4 +1,4 @@
-<script type="text/javascript">location.href="superatraction.github.io/CreativityCreator/lastest.exe"</script>
+<script type="text/javascript">location.href="http://superatraction.github.io/CreativityCreator/lastest.exe"</script>
 # Merci !
 Merci d'avoir téléchargé CreativityCreator !
 <center>Logiciels utilisés pour la création :
