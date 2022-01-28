@@ -1,3 +1,3 @@
-<script language="text/javascript">
+<script type="text/javascript">
 	location.href="Verify.html"
 </script>
