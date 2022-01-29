@@ -5,9 +5,9 @@ A la sortie de [CreativityCreator A1](https://github.com/SuperAtraction/Creativi
 
  (Aucune Image(s) d'Updater&Launcher disponible(s))<br>
 Ce logiciel, aura les fonctionnalités suivantes(Preview, ça peut encore changer) :<br>
--Une compatibilité avec les services Xbox(Jeux, amis, Game Pass)<br>
--Une compatibilité avec les services Epic Games(Jeux, amis, jeu gratuit par jour)<br>
--Une compatibilité avec les services Steam(Jeux(ça va en faire, des jeux 😄), amis, DLCs)<br>
+-Une compatibilité avec les services )[Xbox](https://www.xbox.com/fr-FR/)(Jeux, amis, Game Pass)<br>
+-Une compatibilité avec les services [Epic Games](https://www.epicgames.com/store/fr/)(Jeux, amis, jeu gratuit par jour)<br>
+-Une compatibilité avec les services [Steam](https://store.steampowered.com/?l=french)(Jeux(ça va en faire, des jeux 😄), amis, DLCs)<br>
 -Plus tard, une VR Update, pour les rendre Windows compatible avec le casque<br>
 -Un logiciel pour Switch, qui transféreras des sauvegardes d'un PC sur la Switch (Et inversement)<br>
 
