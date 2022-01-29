@@ -28,4 +28,5 @@ Mais attention, tout cela n'est quand...<br>
 J'estime la date de sortie pour le 01/02/2022 (Non-Terminé)<br>
 J'estime la date de sortie Finale fin 2022<br>
 
-Merci & a bientôt,<br>
+Merci et a bientôt,<br>
+SuperAtraction
