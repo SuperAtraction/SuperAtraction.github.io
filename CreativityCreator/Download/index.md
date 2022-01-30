@@ -5,11 +5,11 @@
 <a class="BLR" href="Updater&Launcher/">Télécharger pour Updater&Launcher</a></center>
 
 ## Pro
-//Téléchargements Comunity pour le moment. Les téléchargements Pro seronts disponibles Uniquement lors que le site auras accès à un serveur PhP//<br>
+<p class="waning">//Téléchargements Comunity pour le moment. Les téléchargements Pro seronts disponibles Uniquement lors que le site auras accès à un serveur PhP//</p><br>
 <center><a href="Tanks" class="BLR"><img src='Windows.png' width=20 height=20/>Télécharger CreativityCreator A0.05</a><br><br>
 <a class="BLR" href="Updater&Launcher/">Télécharger pour Updater&Launcher</a></center>
 
 ## Ultimate
-//Téléchargements Comunity pour le moment. Les téléchargements Ultimate seronts disponibles Uniquement lors que le site auras accès à un serveur PhP//<br>
+<p class="waning">//Téléchargements Comunity pour le moment. Les téléchargements Ultimate seronts disponibles Uniquement lors que le site auras accès à un serveur PhP//</p><br>
 <center><a href="Tanks" class="BLR"><img src='Windows.png' width=20 height=20/>Télécharger CreativityCreator A0.05</a><br><br>
 <a class="BLR" href="Updater&Launcher/">Télécharger pour Updater&Launcher</a></center>

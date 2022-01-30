@@ -6,3 +6,8 @@ color: white;
 a.BLR:hover {
 background: red; 
 }
+
+.warning {
+	background-color: yellow;
+	color: red;
+}
