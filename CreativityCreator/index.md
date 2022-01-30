@@ -1,6 +1,7 @@
 # CreativityCreator
 
-<input type="button" value="Télécharger" class="btn btn-github" onClick='location.href="Download/"'>
+<link href='https://superatraction.github.io/Css/Base.css' rel='stylesheet' type='text/css'/>
+<a href="Download/" class="BLR">Télécharger</a>
 
-CreativityCreator,
-Mon tout premier logiciel
+CreativityCreator,<br>
+Mon tout premier logiciel,

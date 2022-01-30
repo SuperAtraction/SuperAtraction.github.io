@@ -1,0 +1,8 @@
+a.BLR {
+padding: 10px 30px; 
+background: blue; 
+color: white; 
+}
+a.BLR:hover {
+background: red; 
+}
