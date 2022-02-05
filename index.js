@@ -7,8 +7,8 @@ autoOpen: true,
       hide: {
         effect: "explode",
         duration: 1000
-      }
-            modal: true,
+      },
+          modal: true,
       buttons: {
         Ok: function() {
           $( this ).dialog( "close" );
