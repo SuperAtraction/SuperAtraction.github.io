@@ -14,7 +14,7 @@ autoOpen: true,
         duration: 1000
       },
           modal: true,
-      buttons: {
+            buttons: {
         Ok: function() {
           $( this ).dialog( "close" );
         }
@@ -33,7 +33,7 @@ $("#LND").dialog({
     duration: 1000
   },
       modal: true,
-      buttons: {
+            buttons: {
         Ok: function() {
           $( this ).dialog( "close" );
         }
