@@ -1,3 +1,1 @@
-  $( function() {
-    $( "#Welcome-Dialog" ).dialog();
-  } );
+$( "#Welcome-Dialog" ).dialog();
