@@ -2,6 +2,12 @@
 <script type="text/JavaScript">
 	alert("/!\L'événement a été recalé sur une  date encore Inconnu./!\ \nLe 01/02/22, l'évenement A1 !\nCet évènement est pour la sortie d'Updater&Launcher A1 et CreativityCreator A1 !\nQuand je pense que CreativityCreator est sortie le 05/12/22... Wooah...\nMais bon, soyez là pour Télécharger Updater&Launcher A1 et dedans CreativityCreator...\n A1 !")
 </script>
+<div id="Welcome-Dialog" title="Bienvenue !">
+	<p>
+		/!\L'événement a été recalé sur une  date encore Inconnu./!\ <br>
+		Le ../../22, l'évenement A1 ! Cet évènement est pour la sortie d'Updater&Launcher A1 et CreativityCreator A1 ! Quand je pense que CreativityCreator est sortie le 05/12/22... Wooah... Mais bon, soyez là pour Télécharger Updater&Launcher A1 et dedans CreativityCreator... A1 !
+	</p>
+</div>
 Ce site utilise les githubs pages pour fonctionner.
 Il ne fonctionne malencontreusement pas avec le [php](https://www.php.net/manual/fr/).
 #### [Ma page github](https://github.com/SuperAtraction/)
