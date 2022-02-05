@@ -13,4 +13,5 @@ autoOpen: true,
         Ok: function() {
           $( this ).dialog( "close" );
         }
+      }
 });
