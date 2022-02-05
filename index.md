@@ -2,7 +2,7 @@
 <link href="https://superatraction.github.io/JQuery/jquery-ui.css" rel="stylesheet">
 <div id="Welcome-Dialog" title="Bienvenue !">
 	<p>
-		/!\L'événement a été recalé sur une  date encore Inconnu./!\
+		/!\L'événement a été recalé sur une  date encore Inconnu./!\<br>
 		Le ../../22, l'évenement A1 ! Cet évènement est pour la sortie d'Updater&Launcher A1 et CreativityCreator A1 ! Quand je pense que CreativityCreator est sortie le 05/12/22... Wooah... Mais bon, soyez là pour Télécharger Updater&Launcher A1 et dedans CreativityCreator... A1 !
 	</p>
 </div>
