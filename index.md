@@ -30,6 +30,5 @@ _**J'ai d'abord découvert [Minecraft](http://minecraft.net), sur Xbox360, mais 
 <h2><div id="Lastest-News">Dèrnières News</div></h2>
 <div id="LND"></div>
 
-<script src="https://superatraction.github.io/JQuery/external/jquery/jquery.js"></script>
 <script src="https://superatraction.github.io/JQuery/jquery-ui.js"></script>
 <script src="https://superatraction.github.io/index.js"></script>
