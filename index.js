@@ -19,7 +19,7 @@ autoOpen: true,
 });
 
 $("#LND").dialog({
-  autoOpen: false,
+  autoOpen: true,
   show: {
     effect: "blind",
     duration: 1000
