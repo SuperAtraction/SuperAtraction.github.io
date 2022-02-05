@@ -10,12 +10,7 @@ autoOpen: true,
         effect: "explode",
         duration: 1000
       },
-          modal: true,
-            buttons: {
-        Ok: function() {
-          $( this ).dialog( "close" );
-        }
-      }
+          modal: true
 });
 
 $("#LND").dialog({
@@ -29,12 +24,7 @@ $("#LND").dialog({
     effect: "explode",
     duration: 1000
   },
-      modal: true,
-            buttons: {
-        Ok: function() {
-          $( this ).dialog( "close" );
-        }
-      }
+      modal: true
 })
 
     $( "#Lastest-News" ).on( "click", function() {
