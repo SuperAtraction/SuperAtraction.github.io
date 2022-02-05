@@ -1,8 +1,5 @@
-$(document).ready(load);
+$("#LND").load("news/lastest/index.html");
 
-function load(){
-  $("#LND").load("news/lastest/index.html");
-}
 $( "#Welcome-Dialog" ).dialog({
 autoOpen: true,
       show: {
