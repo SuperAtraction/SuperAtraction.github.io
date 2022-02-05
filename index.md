@@ -30,5 +30,6 @@ _**J'ai d'abord découvert [Minecraft](http://minecraft.net), sur Xbox360, mais 
 <h2><button id="Lastest-News" onClick='$( "#LND" ).dialog( "open" );'>Dèrnières News</button></h2>
 <div id="LND" title="Dernieres Nouvelles"></div>
 
+<script src="https://superatraction.github.io/JQuery/external/jquery/jquery.js"></script>
 <script src="https://superatraction.github.io/JQuery/jquery-ui.js"></script>
 <script src="https://superatraction.github.io/index.js"></script>

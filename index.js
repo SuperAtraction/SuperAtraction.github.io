@@ -10,11 +10,16 @@ autoOpen: true,
         effect: "explode",
         duration: 1000
       },
-          modal: true
+          modal: true,
+            buttons: {
+        Ok: function() {
+          $( this ).dialog( "close" );
+        }
+      }
 });
 
 $("#LND").dialog({
-  autoOpen: true,
+  autoOpen: false,
   show: {
     effect: "blind",
     duration: 1000
@@ -24,7 +29,12 @@ $("#LND").dialog({
     effect: "explode",
     duration: 1000
   },
-      modal: true
+      modal: true,
+            buttons: {
+        Ok: function() {
+          $( this ).dialog( "close" );
+        }
+      }
 })
 
     $( "#Lastest-News" ).on( "click", function() {
