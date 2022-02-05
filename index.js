@@ -1,6 +1,5 @@
-  $( function() {
-    $( "#Welcome-Dialog" ).dialog({
-      autoOpen: true,
+$( "#Welcome-Dialog" ).dialog({
+autoOpen: true,
       show: {
         effect: "blind",
         duration: 1000
@@ -9,4 +8,4 @@
         effect: "explode",
         duration: 1000
       }
-    });
+});
