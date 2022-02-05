@@ -6,7 +6,7 @@ autoOpen: true,
       },
       hide: {
         effect: "explode",
-        duration: 10000
+        duration: 1000
       },
           modal: true,
       buttons: {
