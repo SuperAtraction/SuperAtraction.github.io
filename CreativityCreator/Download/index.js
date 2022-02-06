@@ -1,5 +1,5 @@
 $( "#Custom" ).dialog({
-autoOpen: true,
+autoOpen: false,
       show: {
         effect: "blind",
         duration: 1000
@@ -11,6 +11,6 @@ autoOpen: true,
           modal: true
 });
 
-function Custom(){
+function Custo(){
 	$("#Custom").dialog("open");
 }
