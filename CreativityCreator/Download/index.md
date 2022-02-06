@@ -1,7 +1,7 @@
 # Téléchargements de CreativityCreator
 <link href='https://superatraction.github.io/Css/Base.css' rel='stylesheet' type='text/css'/><link href="https://superatraction.github.io/JQuery/jquery-ui.css" rel="stylesheet">
 <center><a href="Windows/" class="BLR">Télécharger CreativityCreator Comunity</a><br><br>
-<button class="BLR" onClick="Custom()">Télécharger une version customisée de CreativityCreator</a></center>
+<button class="BLR" onClick="Custom()">Télécharger une version customisée de CreativityCreator</button></center>
 	<div id="Custom"></div>
 
 <script type="text/javascript">
