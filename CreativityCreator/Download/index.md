@@ -3,8 +3,8 @@
 <div id="accordion">
 	<h3>Personal</h3>
 	<div>
-		<div id="accordion">
-			<h3>Comuity</h3>
+		<div id="accordion2">
+			<h3>Comunity</h3>
 			<div><a href="Windows/Comunity" class="BLR"><img src='Windows.png' width=20 height=20/>Télécharger CreativityCreator pour Windows</a><br><br>
 				CreativityCreator est Disponible pou Windows et resteras disponible pour 
 				<em><strong>toujours</strong></em>. <a href="Windows/">Plus d'info sur la version Windows</a>
@@ -24,7 +24,8 @@
 <a class="BLR" href="Entreprise/">Télécharger CreativityCreator Entreprise</button></center>
 
 <script type="text/javascript">
-	$("#accordion").accordion():
+	$("#accordion").accordion()
+	$( "#accordion2" ).accordion()
 </script>
 <script src="https://superatraction.github.io/JQuery/external/jquery/jquery.js"></script>
 <script src="https://superatraction.github.io/JQuery/jquery-ui.js"></script>
