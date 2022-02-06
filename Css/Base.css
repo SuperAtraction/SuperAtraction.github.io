@@ -1,9 +1,9 @@
-a.BLR {
+.BLR {
 padding: 10px 30px; 
 background: blue; 
 color: white; 
 }
-a.BLR:hover {
+.BLR:hover {
 background: red; 
 }
 

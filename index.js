@@ -12,9 +12,6 @@ autoOpen: true,
       },
           modal: true,
             buttons: {
-        Ok: function() {
-          $( this ).dialog( "close" );
-        }
       }
 });
 
