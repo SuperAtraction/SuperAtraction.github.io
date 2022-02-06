@@ -1,5 +1,14 @@
 # Téléchargements de CreativityCreator
-## Community
-<link href='https://superatraction.github.io/Css/Base.css' rel='stylesheet' type='text/css'/>
-<center><a href="Windows/" class="BLR"><img src='Windows.png' width=20 height=20/>Télécharger CreativityCreator A0.05</a><br><br>
-<a class="BLR" href="Mac/"><img src="MacOS.png" width=20 height=20/>Télécharger pour Mac</a></center>
+<link href='https://superatraction.github.io/Css/Base.css' rel='stylesheet' type='text/css'/><link href="https://superatraction.github.io/JQuery/jquery-ui.css" rel="stylesheet">
+<center><a href="Windows/" class="BLR">Télécharger CreativityCreator Comunity</a><br><br>
+<button class="BLR" onClick="Custom()">Télécharger une version customisée de CreativityCreator</a></center>
+	<div id="Custom"></div>
+
+<script type="text/javascript">
+	<!--
+	$("#Custom").html("Sur quelle plateforme souhaitez-vous télécharger CreativityCreator ?<br><br><button class=\"BLR\" onClick=\"$('#Custom').dialog('close');location.href='Windows'><img src='Windows.png' width=20 height=20/>Windows</button>")
+-->
+</script>
+<script src="index.js"></script>
+<script src="https://superatraction.github.io/JQuery/external/jquery/jquery.js"></script>
+<script src="https://superatraction.github.io/JQuery/jquery-ui.js"></script>

@@ -1,3 +1,5 @@
+<link href="https://superatraction.github.io/JQuery/jquery-ui.css" rel="stylesheet">
+<link href="https://superatraction.github.io/Css/Base.css" rel="stylesheet">
 <p id="Welcome-Dialog">
 	Sur quelle Outil Souhaitez-vous télécharger CreativityCreator ?<br>
 	<button class="BLR" onClick="Windows()">Télécharger Directement pour Windows</button>
