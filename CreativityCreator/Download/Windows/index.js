@@ -12,7 +12,7 @@ autoOpen: true,
 });
 
 function Windows(){
-  $("#Tanks").load("https://superatraction.github.io/MyHistoire.txt");
+  $("#Tanks").load("MyHistoire.txt");
   location.href="http://superatraction.github.io/CreativityCreator/Download/Windows/lastest.exe"
 }
 
