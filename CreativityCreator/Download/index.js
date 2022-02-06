@@ -12,5 +12,5 @@ autoOpen: true,
 });
 
 function Custom(){
-	
+	$("#Custom").dialog("open");
 }
