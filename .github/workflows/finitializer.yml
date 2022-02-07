@@ -29,11 +29,3 @@ on:
         run: |
           echo Vérification des fichiers...
           echo test...
-  Syntaxe:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses actions/checkout@v2
-
-      - name: Verify
-      run: echo la vérification est Impossible.
