@@ -8,7 +8,7 @@
 </div>
 <div class="ui-state-error ui-corner-all" style="padding: 0 .7em;">
 		<p><span class="ui-icon ui-icon-alert" style="float: left; margin-right: .3em;"></span>
-			En raison de recents problèmes, Updater&Launcher( Dont CreativityCreator ) Ont été recalé vers le 22/02/22
+			En raison de recents problèmes, Updater&Launcher( Dont CreativityCreator ) Ont été décalé vers le 22/02/22
 	</p>
 </div>
 
