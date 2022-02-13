@@ -1,3 +1,8 @@
+<link href="Css/Base.css" rel="stylesheet">
+<div id="Menu">
+	<a class="BLR" href="CodeCommunity">CodeCommunity</a>
+</div>
+
 # Bienvenue sur SuperAtraction.github.io !
 <link href="https://superatraction.github.io/JQuery/jquery-ui.css" rel="stylesheet">
 <div id="Welcome-Dialog" title="Bienvenue !">
