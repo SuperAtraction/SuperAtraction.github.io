@@ -1,7 +1,7 @@
 <link href="Css/Base.css" rel="stylesheet">
-<div id="Menu">
-	<a class="BLR" href="CodeCommunity">CodeCommunity</a>
-</div>
+<button id="Menu" onClick="Menu()">
+	Menu
+</button>
 
 # Bienvenue sur SuperAtraction.github.io !
 <link href="https://superatraction.github.io/JQuery/jquery-ui.css" rel="stylesheet">
