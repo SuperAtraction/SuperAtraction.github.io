@@ -1,3 +1,4 @@
+<script src="https://superatraction.github.io/index.js"></script>
 <link href="Css/Base.css" rel="stylesheet">
 <button id="Menu" onClick="Menu()">
 	Menu
@@ -43,4 +44,3 @@ _**J'ai d'abord découvert [Minecraft](http://minecraft.net), sur Xbox360, mais 
 
 <script src="https://superatraction.github.io/JQuery/external/jquery/jquery.js"></script>
 <script src="https://superatraction.github.io/JQuery/jquery-ui.js"></script>
-<script src="https://superatraction.github.io/index.js"></script>
