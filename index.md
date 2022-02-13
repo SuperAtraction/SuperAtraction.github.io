@@ -6,6 +6,12 @@
 		Le ../../22, l'évenement A1 ! Cet évènement est pour la sortie d'Updater&Launcher A1 et CreativityCreator A1 ! Quand je pense que CreativityCreator est sortie le 05/12/22... Wooah... Mais bon, soyez là pour Télécharger Updater&Launcher A1 et dedans CreativityCreator... A1 !
 	</p>
 </div>
+<div class="ui-state-error ui-corner-all" style="padding: 0 .7em;">
+		<p><span class="ui-icon ui-icon-alert" style="float: left; margin-right: .3em;"></span>
+			En raison de recents problèmes, Updater&Launcher( Dont CreativityCreator ) Ont été recalé vers le 22/02/22
+	</p>
+</div>
+
 Ce site utilise les githubs pages pour fonctionner.
 Il ne fonctionne malencontreusement pas avec le [php](https://www.php.net/manual/fr/).
 #### [Ma page github](https://github.com/SuperAtraction/)
