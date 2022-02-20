@@ -72,6 +72,7 @@ autoOpen: true,
     $( "#Lastest-News" ).on( "click", function() {
       alert("Un test");
     });
+	</script><script type="text/javascript">
 	$("#temp").html("<a class=\"BLR\" href=\"CodeCommunity\">CodeCommunity</a>");
 $( "#temp" ).dialog({
 autoOpen: false,
