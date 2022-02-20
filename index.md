@@ -50,3 +50,24 @@ _**J'ai d'abord découvert [Minecraft](http://minecraft.net), sur Xbox360, mais 
 
 <script src="https://superatraction.github.io/JQuery/external/jquery/jquery.js"></script>
 <script src="https://superatraction.github.io/JQuery/jquery-ui.js"></script>
+<script type="text/javascript">
+	$("#temp").html("<a class=\"BLR\" href=\"CodeCommunity\">CodeCommunity</a>");
+$( "#temp" ).dialog({
+autoOpen: false,
+      show: {
+        effect: "blind",
+        duration: 1000
+      },
+      hide: {
+        effect: "explode",
+        duration: 1000
+      },
+          modal: true,
+            buttons: {
+      }
+});
+
+function Menu() {
+      $( "#temp" ).dialog("open");
+}
+</script>
