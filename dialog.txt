@@ -1,5 +1,5 @@
-<a class="BLR" href="CodeCommunity">CodeCommunity</a><ul style="width:100px;" id="menu">
-	<li><div>Item 1</div></li>
+<ul style="width:100px;" id="menu">
+	<li><a class="BLR" href="CodeCommunity">CodeCommunity</a></li>
 	<li><div>Item 2</div></li>
 	<li><div>Item 3</div>
 		<ul>
