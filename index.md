@@ -51,7 +51,21 @@ _**J'ai d'abord découvert [Minecraft](http://minecraft.net), sur Xbox360, mais 
 <script src="https://superatraction.github.io/JQuery/external/jquery/jquery.js"></script>
 <script src="https://superatraction.github.io/JQuery/jquery-ui.js"></script>
 <script type="text/javascript">
-	$("#temp").html("<a class=\"BLR\" href=\"CodeCommunity\">CodeCommunity</a>");
+	$("#temp").html("<a class=\"BLR\" href=\"CodeCommunity\">CodeCommunity</a><ul style=\"width:100px;\" id=\"menu\">
+	<li><div>Item 1</div></li>
+	<li><div>Item 2</div></li>
+	<li><div>Item 3</div>
+		<ul>
+			<li><div>Item 3-1</div></li>
+			<li><div>Item 3-2</div></li>
+			<li><div>Item 3-3</div></li>
+			<li><div>Item 3-4</div></li>
+			<li><div>Item 3-5</div></li>
+		</ul>
+	</li>
+	<li><div>Item 4</div></li>
+	<li><div>Item 5</div></li>
+</ul>");
 $( "#temp" ).dialog({
 autoOpen: false,
       show: {
@@ -70,4 +84,6 @@ autoOpen: false,
 function Menu() {
       $( "#temp" ).dialog("open");
 }
+	
+	
 </script>
