@@ -10,5 +10,6 @@ Pour créer un site web, vous devriez AU MOIN savoir les chose suivantes :<br><u
   <li>Savoir écrire</li>
   <li>Savoir Lire</li>
   </ul>
-  Vous devez aussi remplir les conditions suivantes ! <br><ul>
-  <li>Avoir un Compte Github ( 
+  Vous devez aussi remplir les conditions suivantes( Pour un site Gratuit ) <br><ul>
+  <li>Avoir un Compte Github ( <a href="https://github.com/signup">Créer Un Compte</a> )</li>
+  <li>Avoir Lu <a href=""
