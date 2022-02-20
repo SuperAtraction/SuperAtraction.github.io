@@ -51,6 +51,27 @@ _**J'ai d'abord découvert [Minecraft](http://minecraft.net), sur Xbox360, mais 
 <script src="https://superatraction.github.io/JQuery/external/jquery/jquery.js"></script>
 <script src="https://superatraction.github.io/JQuery/jquery-ui.js"></script>
 <script type="text/javascript">
+	$("#LND").load("news/lastest/index.html");
+
+$( "#Welcome-Dialog" ).dialog({
+autoOpen: true,
+      show: {
+        effect: "blind",
+        duration: 1000
+      },
+      hide: {
+        effect: "explode",
+        duration: 1000
+      },
+          modal: true,
+            buttons: {
+      }
+});
+
+
+    $( "#Lastest-News" ).on( "click", function() {
+      alert("Un test");
+    });
 	$("#temp").html("<a class=\"BLR\" href=\"CodeCommunity\">CodeCommunity</a>");
 $( "#temp" ).dialog({
 autoOpen: false,
