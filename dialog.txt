@@ -2,7 +2,7 @@
 	<li><div>Le site</div>
 	<ul>
 	<li><a href="CodeCommunity">CodeCommunity</a></li>
-	<li><a href="Wikis/">Wikis</a><li>
+	<li><a href="Wikis/">Wikis</a></li>
 	<li><a href="Game/">Pour les Gamers</a></li>
 	<li><a href="Futur/">Le Futur</a></li>
 	</ul></li>
