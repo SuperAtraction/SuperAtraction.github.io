@@ -1,5 +1,7 @@
 <script src="https://superatraction.github.io/index.js"></script>
 <link href="Css/Base.css" rel="stylesheet">
+# Bienvenue sur SuperAtraction.github.io !
+
 <div class="ui-state-error ui-corner-all" style="padding: 0 .7em;">
 		<p><span class="ui-icon ui-icon-alert" style="float: left; margin-right: .3em;"></span>
 			Le site est en bêta,<br>
@@ -11,13 +13,14 @@
 </button>
 <div id="temp" title="Menu"></div>
 
-# Bienvenue sur SuperAtraction.github.io !
 <link href="https://superatraction.github.io/JQuery/jquery-ui.css" rel="stylesheet">
 <div class="ui-state-error ui-corner-all" style="padding: 0 .7em;">
 		<p><span class="ui-icon ui-icon-alert" style="float: left; margin-right: .3em;"></span>
 			En raison de recents problèmes, Updater&Launcher( Dont CreativityCreator ) Ont été décalé vers le 22/02/22
 	</p>
 </div>
+# News
+<div id="LND">Erreur. Activez JavaScript ou Vérifier votre connexion Internet.</div>
 Ce site utilise les githubs pages pour fonctionner.
 Il ne fonctionne malencontreusement pas avec le [php](https://www.php.net/manual/fr/).
 #### [Ma page github](https://github.com/SuperAtraction/)
@@ -38,9 +41,6 @@ Téléchargeable [ici](Updater&Launcher/download)
 
 # Mon Histoire
 _**J'ai d'abord découvert [Minecraft](http://minecraft.net), sur Xbox360, mais pas son côté Pvp, craft... Mais le côté Créatif: surtout la redstone. Au fil du temps, j'ai découvert Scratch, puis Minecraft : Bedrock Edition, la copie Minecraft de Microsoft. Puis, début 2021, j'ai eu Minecraft : java Edition, où j'ai découvert un "Secret" dans le launcher : Les versions en Json. J'ai ensuite découvert [Eclipse](http://eclipse.org), le célèbre logiciel de programmation Java. Grâce à lui, j'ai crée un Créateur de Versions de Minecraft, compatible avec les mods. Java, je l'ai commencé à l'appendre fin Mars 2021. J'ai ensuite découvert [MCreator](http://mcreator.net), le logiciel(de plus en plus connu) de création de mods minecraft. Plus tard, début juillet 2021, j'ai appris le HTML et le JavaScript, qui me servent pour les github pages et FirePage. Ensuite, le 15/09/21, j'ai appris le [Php](http://php.net). Le 21/11/22, j'ai appris l'arduino, et nous voilà à aujourd'hui**_
-# News
-<h2><button id="Lastest-News" onClick='$( "#LND" ).dialog( "open" );'>Dèrnières News</button></h2>
-<div id="LND" title="Dernieres Nouvelles"></div>
 
 <script src="https://superatraction.github.io/JQuery/external/jquery/jquery.js"></script>
 <script src="https://superatraction.github.io/JQuery/jquery-ui.js"></script>
@@ -61,6 +61,8 @@ autoOpen: false,
       }
 });
 
+$("#LND").load("LNews.txt");
+	
 function Menu() {
       $( "#temp" ).dialog("open");
 }
