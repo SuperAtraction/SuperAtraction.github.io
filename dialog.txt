@@ -1,0 +1,24 @@
+<ul style="width:100px;" id="menu">
+	<li><div>Le site</div>
+	<ul>
+	<li><a href="CodeCommunity">CodeCommunity</a></li>
+	<li><a href="Wiki/">Wiki</a></li>
+	<li><a href="Game/">Pour les Gamers</a></li>
+	<li><a href="Futur/">Le Futur</a></li>
+	</ul></li>
+	<li><div>Nos Applis</div></li>
+	<li><div>Item 3</div>
+		<ul>
+			<li><div>Item 3-1</div></li>
+			<li><div>Item 3-2</div></li>
+			<li><div>Item 3-3</div></li>
+			<li><div>Item 3-4</div></li>
+			<li><div>Item 3-5</div></li>
+		</ul>
+	</li>
+	<li><div>Item 4</div></li>
+	<li><div>Item 5</div></li>
+</ul>
+<script type="text/javascript">
+$( "#menu" ).menu();
+</script>
