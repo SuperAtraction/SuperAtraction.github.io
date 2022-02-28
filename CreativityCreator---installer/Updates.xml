@@ -1,0 +1,22 @@
+<Updates>
+ <ApplicationName>CreativityCreator</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>net.SuperAtraction.CreativityCreator</Name>
+  <DisplayName>CreativityCreator</DisplayName>
+  <Description>Installer la base de CreativityCreator</Description>
+  <Version>A0.05</Version>
+  <ReleaseDate>2022-01-08</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="50670460" CompressedSize="14797896"/>
+  <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,Plugins.7z,styles.7z,Textures.7z,tls.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License file="license.txt" name="CreativityCreator"/>
+  </Licenses>
+  <SHA1>48bbb5be95275396f74432b27dd6bf230a843e7f</SHA1>
+ </PackageUpdate>
+ <SHA1>48bbb5be95275396f74432b27dd6bf230a843e7f</SHA1>
+ <MetadataName>2022-02-26-2109_meta.7z</MetadataName>
+</Updates>
