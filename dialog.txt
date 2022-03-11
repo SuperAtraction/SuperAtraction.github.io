@@ -4,6 +4,7 @@
 	<li><a href="CodeCommunity">CodeCommunity</a></li>
 	<li><a href="Wiki/">Wiki</a></li>
 	<li><a href="Game/">Pour les Gamers</a></li>
+	<li><a href="Energy-Engine/">Pour les électriciens</a></li>
 	<li><a href="Futur/">Le Futur</a></li>
 	</ul></li>
 	<li><div>Nos Applis</div><ul>
