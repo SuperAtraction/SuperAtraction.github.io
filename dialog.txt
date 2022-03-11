@@ -5,8 +5,11 @@
 	<li><a href="Wiki/">Wiki</a></li>
 	<li><a href="Game/">Pour les Gamers</a></li>
 	<li><a href="Futur/">Le Futur</a></li>
-	</ul></li>
-	<li><div>Nos Applis</div></li>
+	<li><div>Nos Applis</div><ul>
+	<li><a href="CreativityCreator/">CreativityCreator</a></li>
+	<li><a href="Updater&Launcher/">UpdaterAndLauncher [Nom de Code]</a></li>
+	</ul>
+	</li>
 	<li><div>Item 3</div>
 		<ul>
 			<li><div>Item 3-1</div></li>
