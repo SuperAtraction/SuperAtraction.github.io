@@ -1,4 +1,3 @@
-<a href="https://superatraction.github.io/">Retour au site</a>
 <ul style="width:100px;" id="menu">
 	<li><div>Le site</div>
 	<ul>
