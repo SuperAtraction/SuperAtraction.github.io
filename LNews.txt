@@ -1,2 +1,2 @@
-<a href="Wiki/films/Alerte Rouge/"><img src="films/Alerte Rouge/Alerte Rouge Logo E.png"/><h1>Alerte Rouge (Turning Red)</h1>Alerte Rouge, autrement appelé Turning Red, "Mei" Lee, la petite fille de treize ans...</a>
+<a href="Wiki/films/Alerte Rouge/"><img src="Wiki/films/Alerte Rouge/Alerte Rouge Logo E.png"/><h1>Alerte Rouge (Turning Red)</h1>Alerte Rouge, autrement appelé Turning Red, "Mei" Lee, la petite fille de treize ans...</a>
 <a href="Wiki/Modloader"><h1>Modloader</h1><p>Récamment, j'ai décidé de créer un Modloader(Autrement appelé "Chargeur de Mod") Minecraft Basé sur Forge.</p></a>
