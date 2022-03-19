@@ -1,4 +1,3 @@
-<script src="https://superatraction.github.io/index.js"></script>
 <link href="Css/Base.css" rel="stylesheet">
 # Bienvenue sur SuperAtraction.github.io !
 
