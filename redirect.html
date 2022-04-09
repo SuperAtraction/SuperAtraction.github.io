@@ -20,6 +20,12 @@
         document.write(response);
     });
           if(rep==false){
+            var geter = false;
+            $.get(input, function(response){
+              geter=true;
+            redir = input;
+    });
+            if(!geter==true)
             redir="https://"+input;
           }}
         location.href = redir;
