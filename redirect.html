@@ -24,6 +24,7 @@
             $.get("https://"+input, function(response){
               geter=true;
             redir = "https://"+input;
+              location.href = redir;
     });
             if(!geter==true)
             redir="https://google.com/search?q="+input;
