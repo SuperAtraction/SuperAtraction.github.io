@@ -14,8 +14,14 @@
         if(input[1]=="t"){
           redir = input;
         }else {
-          
-        
+          var rep = false;
+          $.get("https://superatraction.github.io/"+input, function(response){
+            rep=true;
+        document.write(response);
+    });
+          if(!rep==false){
+            location.href="https://"+input;
+        }
         location.href = redir;
       }
     --></script>
