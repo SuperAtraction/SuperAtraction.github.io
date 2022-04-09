@@ -21,12 +21,12 @@
     });
           if(rep==false){
             var geter = false;
-            $.get(input, function(response){
+            $.get("https://"+input, function(response){
               geter=true;
-            redir = input;
+            redir = "https://"+input;
     });
             if(!geter==true)
-            redir="https://"+input;
+            redir="https://google.com/search?q="+input;
           }}
         location.href = redir;
       }
