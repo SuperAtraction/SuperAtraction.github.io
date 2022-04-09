@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>
+      Système explorer
+    </title>
+    <script type="text/javascript">
+      function redirect(){
+        var input = document.getElementById("in").value;
+        
+        var redir = input;
+        
+        if(input[1]==":"){
+          redir = "file:///"+input;
+        }
+        
+        location.href=redir;
+      }
+    </script>
+  </head>
+  <body>
+    <center>
+      <h1>Système explorer</h1>
+      <input type="text" placeholder="Entrez le chemin/URL" id="in">
+      <button type="button" onclick="redirect();">Go</button>
+</html>
