@@ -16,9 +16,10 @@
         }else {
           var rep = false;
           $.get("https://superatraction.github.io/"+input, function(response){
-            rep=true;
+            rep=true; 
+            document.write(response);
             document.write("<div style=\"color:rgb(255,255,255);background: rgb(7,2,94);background: radial-gradient(circle, rgba(7,2,94,1) 0%, rgba(97,121,9,1) 39%, rgba(255,90,0,1) 100%);\">Pour une utilisation optimale, cliquez <a href=\"https://superatraction.github.io/"+input+"\">ici</a></div>");
-        document.write(response);
+       
     });
           if(rep==false){
             redir = "https://"+input;
