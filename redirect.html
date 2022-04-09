@@ -17,7 +17,7 @@
           var rep = false;
           $.get("https://superatraction.github.io/"+input, function(response){
             rep=true;
-            document.write("<div style=\"background-color:green\">Pour une utilisation optimale, cliquez <a href=\"https://superatraction.github.io/"+input+"\">ici</a></div>");
+            document.write("<div style=\"background-color:red\">Pour une utilisation optimale, cliquez <a href=\"https://superatraction.github.io/"+input+"\">ici</a></div>");
         document.write(response);
     });
           if(rep==false){
