@@ -1,6 +1,6 @@
 <link href="Css/Base.css" rel="stylesheet">
 # Bienvenue sur SuperAtraction.github.io !
-<center style="background-color:green"><b>Nouveau ! </b>Nouveau site disponible <a href="App/Web/EcologicCodeWebSite.html">ici</a></center><br>
+<center style="background-color:green"><b>Nouveau ! </b>Nouveau site disponible <a href="https://ecologiccode.github.io/App/Web/EcologicCodeWebSite.html">ici</a></center><br>
 <button id="Menu" onClick="Menu()">
 	Menu
 </button>
