@@ -1,12 +1,6 @@
 <link href="Css/Base.css" rel="stylesheet">
 # Bienvenue sur SuperAtraction.github.io !
-
-<div class="ui-state-error ui-corner-all" style="padding: 0 .7em;">
-		<p><span class="ui-icon ui-icon-alert" style="float: left; margin-right: .3em;"></span>
-			Le site est en bêta,<br>
-			Certains éléments ne fonctionnent pas / mal.
-	</p>
-</div>
+<center style="background-color:green"><b>Nouveau ! </b>Nouveau site disponible <a href="App/Web/EcologicCodeWebSite.html">ici</a></center><br>
 <button id="Menu" onClick="Menu()">
 	Menu
 </button>
